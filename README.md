@@ -1,4 +1,4 @@
-# Encryption and Decryption Program
+# Encryption Program
 
 This repository contains a Python program that implements Caesar Cipher encryption, as well as AES and Blowfish encryption and decryption. The program demonstrates basic cryptographic techniques and allows users to encrypt and decrypt text using different algorithms.
 
